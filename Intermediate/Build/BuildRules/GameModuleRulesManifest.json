@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Hungry-Felhounds\\Source\\Game\\Game.Build.cs",
+		"D:\\Projects\\Hungry-Felhounds\\Source\\Game.Target.cs",
+		"D:\\Projects\\Hungry-Felhounds\\Source\\GameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
