@@ -1,0 +1,1202 @@
+﻿Log file open, 01/11/23 00:53:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Game1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.370017
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD FX-8320E Eight-Core Processor              , GPU: NVIDIA GeForce GT 1030
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.10-19.53.22:927][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.10-19.53.22:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.10-19.53.22:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.10-19.53.22:941][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.10-19.53.22:942][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.10-19.53.22:942][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.10-19.53.22:942][  0]LogHAL: Display: Platform has ~ 8 GB [8571179008 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.10-19.53.22:942][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.10-19.53.22:942][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.10-19.53.22:942][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.10-19.53.22:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.10-19.53.22:944][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:944][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Scalability.ini]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.10-19.53.22:945][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Engine.ini]
+[2023.01.10-19.53.22:945][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Config/Windows/Editor.ini]
+[2023.01.10-19.53.22:945][  0]LogInit: Computer: DESKTOP-OB0F6KV
+[2023.01.10-19.53.22:945][  0]LogInit: User: MadMax
+[2023.01.10-19.53.22:945][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.01.10-19.53.22:945][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.10-19.53.22:945][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2023.01.10-19.53.22:945][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.10-19.53.22:945][  0]LogMemory: Process Physical Memory: 139.44 MB used, 139.44 MB peak
+[2023.01.10-19.53.22:945][  0]LogMemory: Process Virtual Memory: 112.50 MB used, 112.50 MB peak
+[2023.01.10-19.53.22:945][  0]LogMemory: Physical Memory: 5700.77 MB used,  2473.34 MB free, 8174.11 MB total
+[2023.01.10-19.53.22:945][  0]LogMemory: Virtual Memory: 134210168.00 MB used,  7557.69 MB free, 134217728.00 MB total
+[2023.01.10-19.53.22:953][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.10-19.53.23:017][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.10-19.53.23:018][  0]LogInit: Using OS detected language (ru-RU).
+[2023.01.10-19.53.23:018][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.01.10-19.53.23:025][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2023.01.10-19.53.23:025][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.01.10-19.53.23:026][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.01.10-19.53.23:028][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.10-19.53.23:045][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.10-19.53.23:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.10-19.53.23:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.10-19.53.23:258][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.10-19.53.23:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.10-19.53.23:262][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.10-19.53.23:262][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.10-19.53.23:262][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.10-19.53.23:428][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2023.01.10-19.53.23:428][  0]LogD3D11RHI:       1982/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     Description : NVIDIA GeForce GT 1030
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     DeviceId    : 1d01
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     SubSysId    : 85f51043
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     DedicatedVideoMemory : 2078597120 bytes
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     SharedSystemMemory : 4285589504 bytes
+[2023.01.10-19.53.23:431][  0]LogD3D11RHI:     AdapterLuid : 0 44775
+[2023.01.10-19.53.23:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.10-19.53.23:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.10-19.53.23:439][  0]LogWindows: EnumDisplayDevices:
+[2023.01.10-19.53.23:439][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2023.01.10-19.53.23:440][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2023.01.10-19.53.23:440][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2023.01.10-19.53.23:440][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     Description : NVIDIA GeForce GT 1030
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     DeviceId    : 1d01
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     SubSysId    : 85f51043
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     DedicatedVideoMemory : 2078597120 bytes
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     SharedSystemMemory : 4285589504 bytes
+[2023.01.10-19.53.23:440][  0]LogD3D11RHI:     AdapterLuid : 0 44775
+[2023.01.10-19.53.23:564][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.10-19.53.23:565][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.10-19.53.23:565][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.10-19.53.23:590][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.10-19.53.23:658][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.10-19.53.24:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.10-19.53.24:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.10-19.53.24:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.10-19.53.24:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.10-19.53.24:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.10-19.53.24:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.10-19.53.24:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.10-19.53.24:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.10-19.53.24:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.10-19.53.24:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.10-19.53.24:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.10-19.53.24:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.10-19.53.24:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.10-19.53.24:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.10-19.53.24:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.01.10-19.53.24:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.01.10-19.53.24:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.01.10-19.53.24:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.01.10-19.53.24:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.10-19.53.24:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.10-19.53.24:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.10-19.53.24:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.10-19.53.24:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.10-19.53.24:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.10-19.53.24:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.10-19.53.24:428][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.10-19.53.24:478][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.01.10-19.53.24:526][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.10-19.53.24:526][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (D:/Projects/Unreal Projects/Hungry-Felhounds/Intermediate/Shaders/WorkingDirectory/7528/).
+[2023.01.10-19.53.24:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MadMax/AppData/Local/Temp/UnrealShaderWorkingDir/303F66324CFA64102AC5788CC27B6F5B/'.
+[2023.01.10-19.53.24:526][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.10-19.53.24:526][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.10-19.53.24:526][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.10-19.53.26:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: Loaded boot cache 0.12s 94MB C:/Users/MadMax/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MadMax/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Unreal Projects/Hungry-Felhounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Unreal Projects/Hungry-Felhounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.10-19.53.26:218][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.10-19.53.26:243][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.10-19.53.26:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.10-19.53.26:243][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.10-19.53.26:253][  0]LogDerivedDataCache: Speed tests for C:/Users/MadMax/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.10-19.53.26:253][  0]LogDerivedDataCache: Display: Performance to C:/Users/MadMax/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=765.55MBs, RandomWriteSpeed=118.79MBs. Assigned SpeedClass 'Local'
+[2023.01.10-19.53.26:254][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MadMax/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.10-19.53.26:255][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.10-19.53.26:255][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.10-19.53.26:337][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.10-19.53.26:337][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.10-19.53.26:381][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2023.01.10-19.53.26:811][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.10-19.53.26:811][  0]LogInit: Active device profile: [000001A1B0008B00][000001A1ADCED880 49] Windows
+[2023.01.10-19.53.26:811][  0]LogInit: Profiles: [000001A1B0008B00][000001A1ADCED880 49] Windows, [000001A1AFFCA100][000001A1AF043A00 49] WindowsNoEditor, [000001A1B0009900][000001A1AF047B80 49] WindowsServer, [000001A1AFFCAE00][000001A1AF04A180 49] WindowsClient, [000001A1B000BC00][000001A1AF04E300 49] IOS, [000001A1AFFC8F00][000001A1AF052480 49] iPadAir, [000001A1B000BE00][000001A1AF03E5C0 49] iPadAir2, [000001A1AFF5CC00][000001A1AF05A800 49] IPadPro, [000001A1AFF5CD00][000001A1AF056840 49] iPadAir3, [000001A1AFFCBB00][000001A1AF05E980 49] iPadAir4, [000001A1AFF5F600][000001A1AF066B00 49] iPadMini2, [000001A1AFFCB200][000001A1AF06AC80 49] iPadMini3, [000001A1AFF5F800][000001A1AF06EE00 49] iPadMini4, [000001A1AFFCB800][000001A1AF072F80 49] iPadMini5, [000001A1AFF8C600][000001A1AF07B240 49] iPhone6, [000001A1AFF8C700][000001A1AF077280 49] iPodTouch6, [000001A1B000A900][000001A1AF083540 49] iPhone7, [000001A1B000A800][000001A1AF07F580 49] iPodTouch7, [000001A1AFF8C100][000001A1AF087700 49] iPhone5S, [000001A1AFF5C700][000001A1AF08B880 49] iPhone6Plus, [000001A1AFF8E500][000001A1AF08FA00 49] iPhone6S, [000001A1AFF5D300][000001A1AF093B80 49] iPhone6SPlus, [000001A1AFF8FB00][000001A1AF096180 49] iPhone7Plus, [000001A1AFF5F500][000001A1AF09A300 49] iPhoneSE, [000001A1B000A600][000001A1AF09E480 49] iPhone8, [000001A1AFF5C600][000001A1AF0A2600 49] iPhone8Plus, [000001A1B000A200][000001A1AF062740 49] iPhoneX, [000001A1AFF5F300][000001A1AF0A6880 49] iPhoneXS, [000001A1B000B400][000001A1AF0AA9C0 49] iPhoneXSMax, [000001A1AFF5ED00][000001A1AF0AEB00 49] iPhoneXR, [000001A1B0008200][000001A1AF0B6C80 49] iPhone11, [000001A1AFF5DE00][000001A1AF0BAE00 49] iPhone11Pro, [000001A1B000AA00][000001A1AF0BEF80 49] iPhone11ProMax, [000001A1AFF5F700][000001A1AF0C3100 49] iPhoneSE2, [000001A1B0008D00][000001A1AF0C7280 49] iPhone12Mini, [000001A1AFF5DF00][000001A1AF0CB400 49] iPhone12, [000001A1B0008700][000001A1AF0CF580 49] iPhone12Pro, [000001A1AFF5D400][000001A1AF0D3700 49] iPhone12ProMax, [000001A1B0008C00][000001A1AF0D7880 49] iPadPro105, [000001A1AFF5D700][000001A1AF0DBA00 49] iPadPro129, [000001A1B0008100][000001A1AF0DFB80 49] iPadPro97, [000001A1AFF5FC00][000001A1AF0E2180 49] iPadPro2_129, [000001A1B0008800][000001A1AF0E6300 49] iPad5, [000001A1AFF5F100][000001A1AF0EA480 49] iPad6, [000001A1B0008500][000001A1AF0EE600 49] iPad7, [000001A1AFF5E800][000001A1AF0F2780 49] iPad8, [000001A1B0009500][000001A1AF0F6900 49] iPadPro11, [000001A1AFF5D500][000001A1AF0B2A40 49] iPadPro2_11, [000001A1B0008F00][000001A1AF0FAB80 49] iPadPro3_129, [000001A1AFF5EC00][000001A1B0110CC0 49] iPadPro4_129, [000001A1B000A500][000001A1B0118E40 49] AppleTV, [000001A1AFF5D100][000001A1B011CFC0 49] AppleTV4K, [000001A1B0008400][000001A1B0121140 49] TVOS, [000001A1AFF5E600][000001A1B01252C0 49] Mac, [000001A1B000BD00][000001A1B0129440 49] MacClient, [000001A1AFF5D800][000001A1B012D5C0 49] MacNoEditor, [000001A1B000B100][000001A1B0131740 49] MacServer, [000001A1AFF5F900][000001A1B01358C0 49] Linux, [000001A1B0008900][000001A1B0139A40 49] LinuxAArch64, [000001A1AFF5FF00][000001A1B013DBC0 49] LinuxNoEditor, [000001A1B0009B00][000001A1B01401C0 49] LinuxAArch64NoEditor, [000001A1AFF5F400][000001A1B0144340 49] LinuxClient, [000001A1B0009C00][000001A1B01484C0 49] LinuxAArch64Client, [000001A1AFF5DD00][000001A1B014C640 49] LinuxServer, [000001A1B000AF00][000001A1B01507C0 49] LinuxAArch64Server, [000001A1AFF5C500][000001A1B0154940 49] Android, [000001A1B0009E00][000001A1B0158AC0 49] Android_Low, [000001A1AFF5F000][000001A1B0114C00 49] Android_Mid, [000001A1B000A400][000001A1B015CD40 49] Android_High, [000001A1AFF5C800][000001A1B0160E80 49] Android_Default, [000001A1B000B200][000001A1B0164FC0 49] Android_Adreno4xx, [000001A1AFFCA400][000001A1B016D140 49] Android_Adreno5xx_Low, [000001A1AFF8DC00][000001A1B01712C0 49] Android_Adreno5xx, [000001A1AFFCBD00][000001A1B0175440 49] Android_Adreno6xx, [000001A1AFF8EB00][000001A1B01795C0 49] Android_Adreno6xx_Vulkan, [000001A1AFFCBE00][000001A1B017D740 49] Android_Mali_T6xx, [000001A1AFF8CF00][000001A1B01818C0 49] Android_Mali_T7xx, [000001A1AFFC9300][000001A1B0185A40 49] Android_Mali_T8xx, [000001A1AFF8DF00][000001A1B0189BC0 49] Android_Mali_G71, [000001A1AFFC9C00][000001A1B018C1C0 49] Android_Mali_G72, [000001A1AFF8E400][000001A1B0190340 49] Android_Mali_G72_Vulkan, [000001A1AFFCB600][000001A1B01944C0 49] Android_Mali_G76, [000001A1AFF8E100][000001A1B0198640 49] Android_Mali_G76_Vulkan, [000001A1AFFC9B00][000001A1B019C7C0 49] Android_Mali_G77, [000001A1AFF8CA00][000001A1B01A0940 49] Android_Mali_G77_Vulkan, [000001A1AFFCB400][000001A1B01A4AC0 49] Android_Mali_G78, [000001A1AFF8D300][000001A1B01A8C40 49] Android_Mali_G78_Vulkan, [000001A1AFFCA900][000001A1B0168D80 49] Android_Mali_G710, [000001A1AFF8FD00][000001A1B01ACEC0 49] Android_Mali_G710_Vulkan, [000001A1AFFC9E00][000001A1B01B1000 49] Android_Vulkan_SM5, [000001A1AFF8C900][000001A1B01B5140 49] Android_PowerVR_G6xxx, [000001A1AFFC9F00][000001A1B01BD2C0 49] Android_PowerVR_GT7xxx, [000001A1AFF8E700][000001A1B01C1440 49] Android_PowerVR_GE8xxx, [000001A1AFFCA300][000001A1B01C55C0 49] Android_PowerVR_GM9xxx, [000001A1AFF8F200][000001A1B01C9740 49] Android_PowerVR_GM9xxx_Vulkan, [000001A1AFFCB000][000001A1B01CD8C0 49] Android_TegraK1, [000001A1AFF8D700][000001A1B01D1A40 49] Android_Unknown_Vulkan, [000001A1AFFCB700][000001A1B01D5BC0 49] Lumin, [000001A1AFF8C200][000001A1B01D81C0 49] Lumin_Desktop, [000001A1AFFCA200][000001A1B01DC340 49] HoloLens, 
+[2023.01.10-19.53.27:046][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.10-19.53.27:046][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.10-19.53.27:046][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.10-19.53.27:046][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.10-19.53.27:046][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.10-19.53.27:071][  0]LogNetVersion: Game1 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3464310289)
+[2023.01.10-19.53.27:767][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.10-19.53.27:883][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.01.10-19.53.27:892][  0]LogUObjectArray: 17186 objects as part of root set at end of initial load.
+[2023.01.10-19.53.27:892][  0]LogUObjectAllocator: 4313952 out of 0 bytes used by permanent object pool.
+[2023.01.10-19.53.27:892][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.10-19.53.28:122][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A26D307F46B9BC6B133ADDA8C0F466D7 | Instance: A143662C49DA7E942D0507AAE10EAB69 (DESKTOP-OB0F6KV-7528).
+[2023.01.10-19.53.28:519][  0]LogPython: Using Python 3.7.7
+[2023.01.10-19.53.29:470][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.10-19.53.29:477][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.10-19.53.29:793][  0]SourceControl: Source control is disabled
+[2023.01.10-19.53.30:631][  0]LogUProjectInfo: Found projects:
+[2023.01.10-19.53.30:825][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.10-19.53.30:847][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.10-19.53.30:887][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.10-19.53.30:887][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.10-19.53.31:080][  0]LogCollectionManager: Loaded 0 collections in 0.003193 seconds
+[2023.01.10-19.53.31:124][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/Collections/' took 0.00s
+[2023.01.10-19.53.31:124][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/Developers/MadMax/Collections/' took 0.00s
+[2023.01.10-19.53.31:124][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/Collections/' took 0.00s
+[2023.01.10-19.53.31:124][  0]LogOcInput: OculusInput pre-init called
+[2023.01.10-19.53.31:497][  0]LogEngine: Initializing Engine...
+[2023.01.10-19.53.31:501][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.01.10-19.53.31:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.10-19.53.31:502][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.10-19.53.31:503][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.10-19.53.31:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.10-19.53.31:785][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.10-19.53.31:823][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.10-19.53.31:828][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.10-19.53.31:829][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.10-19.53.31:830][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.10-19.53.31:830][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.10-19.53.31:850][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.10-19.53.31:850][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.10-19.53.31:874][  0]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2023.01.10-19.53.31:883][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.10-19.53.31:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.10-19.53.31:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.10-19.53.31:887][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.10-19.53.31:887][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.10-19.53.31:887][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.10-19.53.31:889][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.10-19.53.31:889][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.10-19.53.31:889][  0]LogInit: FAudioDevice initialized.
+[2023.01.10-19.53.31:889][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.10-19.53.31:889][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.10-19.53.32:710][  0]LogDerivedDataCache: Saved boot cache 0.82s 94MB C:/Users/MadMax/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.10-19.53.32:711][  0]LogInit: Texture streaming: Enabled
+[2023.01.10-19.53.32:730][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.01.10-19.53.32:735][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.10-19.53.32:735][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.10-19.53.32:738][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.10-19.53.32:775][  0]LogInit: Transaction tracking system initialized
+[2023.01.10-19.53.32:805][  0]BlueprintLog: New page: Editor Load
+[2023.01.10-19.53.32:902][  0]LocalizationService: Localization service is disabled
+[2023.01.10-19.53.32:936][  0]TimingProfiler: Initialize
+[2023.01.10-19.53.32:936][  0]TimingProfiler: OnSessionChanged
+[2023.01.10-19.53.32:936][  0]LoadingProfiler: Initialize
+[2023.01.10-19.53.32:936][  0]LoadingProfiler: OnSessionChanged
+[2023.01.10-19.53.32:936][  0]NetworkingProfiler: Initialize
+[2023.01.10-19.53.32:937][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.10-19.53.32:937][  0]MemoryProfiler: Initialize
+[2023.01.10-19.53.32:937][  0]MemoryProfiler: OnSessionChanged
+[2023.01.10-19.53.33:159][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.01.10-19.53.33:160][  0]LogCook: Display: Mobile HDR setting 1
+[2023.01.10-19.53.33:462][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/' took 0.01s
+[2023.01.10-19.53.33:791][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.10-19.53.33:796][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.637
+[2023.01.10-19.53.33:796][  0]Cmd: MAP LOAD FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.10-19.53.33:797][  0]LightingResults: New page: Lighting Build
+[2023.01.10-19.53.33:799][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-19.53.33:799][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-19.53.33:799][  0]MapCheck: New page: Map Check
+[2023.01.10-19.53.33:799][  0]LightingResults: New page: Lighting Build
+[2023.01.10-19.53.33:882][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.10-19.53.33:887][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.10-19.53.34:172][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.01.10-19.53.34:174][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.01.10-19.53.34:175][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.10-19.53.34:198][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.01.10-19.53.34:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.10-19.53.34:199][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2023.01.10-19.53.34:199][  0]LogFileHelpers: Loading map 'MainMenu' took 0.402
+[2023.01.10-19.53.34:201][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.042
+[2023.01.10-19.53.34:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.10-19.53.34:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.10-19.53.34:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.10-19.53.34:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.10-19.53.34:849][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0201 seconds. Added 3825 classes and 932 folders.
+[2023.01.10-19.53.34:954][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.01.10-19.53.34:960][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.10-19.53.34:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.10-19.53.34:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.01.10-19.53.34:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000146
+[2023.01.10-19.53.34:965][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.10-19.53.34:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.10-19.53.34:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:965][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.01.10-19.53.34:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2023.01.10-19.53.34:971][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.01.10-19.53.34:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.01.10-19.53.34:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:971][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.01.10-19.53.34:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2023.01.10-19.53.34:976][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.10-19.53.34:976][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:976][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.10-19.53.34:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.01.10-19.53.34:976][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2023.01.10-19.53.34:982][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.10-19.53.34:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.10-19.53.34:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.01.10-19.53.34:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2023.01.10-19.53.34:998][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.10-19.53.34:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.34:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.10-19.53.34:998][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.34:998][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.01.10-19.53.34:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2023.01.10-19.53.35:010][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.10-19.53.35:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.10-19.53.35:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.01.10-19.53.35:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2023.01.10-19.53.35:019][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.10-19.53.35:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.10-19.53.35:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.01.10-19.53.35:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2023.01.10-19.53.35:022][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.10-19.53.35:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.10-19.53.35:023][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:023][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.01.10-19.53.35:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2023.01.10-19.53.35:037][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.10-19.53.35:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.10-19.53.35:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.01.10-19.53.35:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2023.01.10-19.53.35:050][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.10-19.53.35:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.10-19.53.35:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.01.10-19.53.35:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.01.10-19.53.35:062][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.10-19.53.35:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.10-19.53.35:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.01.10-19.53.35:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2023.01.10-19.53.35:077][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.10-19.53.35:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.10-19.53.35:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.01.10-19.53.35:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2023.01.10-19.53.35:092][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.10-19.53.35:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.10-19.53.35:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.01.10-19.53.35:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2023.01.10-19.53.35:105][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.10-19.53.35:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.10-19.53.35:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.01.10-19.53.35:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2023.01.10-19.53.35:120][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.10-19.53.35:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.10-19.53.35:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:120][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.01.10-19.53.35:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.01.10-19.53.35:133][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.10-19.53.35:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.10-19.53.35:133][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:133][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.01.10-19.53.35:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.01.10-19.53.35:146][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.10-19.53.35:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.10-19.53.35:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.01.10-19.53.35:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2023.01.10-19.53.35:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.10-19.53.35:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.10-19.53.35:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.01.10-19.53.35:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2023.01.10-19.53.35:171][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.10-19.53.35:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.10-19.53.35:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.01.10-19.53.35:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.01.10-19.53.35:184][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.10-19.53.35:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.10-19.53.35:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.01.10-19.53.35:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2023.01.10-19.53.35:197][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.10-19.53.35:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.10-19.53.35:198][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:198][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.01.10-19.53.35:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2023.01.10-19.53.35:202][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.01.10-19.53.35:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.01.10-19.53.35:202][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:202][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.01.10-19.53.35:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.01.10-19.53.35:217][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.10-19.53.35:217][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:217][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.10-19.53.35:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.01.10-19.53.35:217][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.01.10-19.53.35:236][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.10-19.53.35:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.10-19.53.35:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.01.10-19.53.35:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.01.10-19.53.35:264][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.10-19.53.35:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.10-19.53.35:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.10-19.53.35:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.10-19.53.35:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.01.10-19.53.35:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.01.10-19.53.35:649][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.01.10-19.53.35:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2023.01.10-19.53.35:758][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.10-19.53.35:777][  0]LogSlate: Took 0.017659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.10-19.53.35:778][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.10-19.53.36:149][  0]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:1).
+[2023.01.10-19.53.36:332][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.01.10-19.53.36:333][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2023.01.10-19.53.36:333][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.01.10-19.53.36:333][  0]LogLoad: (Engine Initialization) Total time: 15.17 seconds
+[2023.01.10-19.53.36:333][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.10-19.53.36:399][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.10-19.53.36:439][  1]LogAssetRegistry: Asset discovery search completed in 10.0598 seconds
+[2023.01.10-19.53.36:449][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.01.10-19.53.36:573][  3]LogSlate: Took 0.002062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.10-19.53.41:346][496]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-19.53.41:426][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.10-20.00.07:067][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:067][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:078][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "neg_card_number" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Set neg_card_number
+[2023.01.10-20.00.07:078][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Set slot2_item
+[2023.01.10-20.00.07:078][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Get slot2_item
+[2023.01.10-20.00.07:079][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:079][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:079][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.00.07:080][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Neg Card Number  could not be found in '/Game/TopDownBP/Interface/Other/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.00.07:080][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Slot 2 Item  could not be found in '/Game/TopDownBP/Interface/Other/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.00.07:080][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Slot 2 Item  could not be found in '/Game/TopDownBP/Interface/Other/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.00.07:090][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "pos_card_number" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Set pos_card_number
+[2023.01.10-20.00.07:091][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Set slot1_item
+[2023.01.10-20.00.07:091][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Get slot1_item
+[2023.01.10-20.00.07:091][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:091][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:092][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.00.07:093][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Pos Card Number  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.00.07:093][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.00.07:093][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.00.07:103][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "pos_card_number" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Set pos_card_number
+[2023.01.10-20.00.07:103][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Set slot1_item
+[2023.01.10-20.00.07:103][360]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Get slot1_item
+[2023.01.10-20.00.07:103][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:103][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:104][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.00.07:105][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Pos Card Number  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.00.07:105][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.00.07:105][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Other/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.00.07:108][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:108][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:122][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:123][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:124][360]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:124][360]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:124][360]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:124][360]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:124][360]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:133][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:135][360]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_2
+[2023.01.10-20.00.07:135][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.00.07:137][360]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal': Can't find file.
+[2023.01.10-20.00.07:137][360]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/M_Cursor_Decal.M_Cursor_Decal Referenced by CursorToWorld_GEN_VARIABLE
+[2023.01.10-20.00.07:155][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:155][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.00.07:155][360]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.07:471][360]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.10-20.00.07:501][360]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Characters/0_Base.0_Base
+[2023.01.10-20.00.07:977][360]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2023.01.10-20.00.09:654][360]LogSlate: Took 0.001929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.10-20.00.09:907][360]LogSlate: Took 0.001178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.10-20.00.09:931][361]LogSlate: Took 0.001935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.10-20.00.15:607][683]BlueprintLog: New page: Compile 0_Base
+[2023.01.10-20.00.15:622][683]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.15:622][683]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.00.15:622][683]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.00.15:719][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.01.10-20.00.44:448][803]LogRenderer: Reallocating scene render targets to support 1320x656 Format 10 NumSamples 1 (Frame:1).
+[2023.01.10-20.02.43:987][454]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.10-20.02.43:988][454]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.10-20.02.55:893][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Робот_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.02.55:893][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Робот_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.02.55:893][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Робот_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.02.55:895][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.02.55:898][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.02.55:962][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.02.55:964][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.02.55:964][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.02.55:964][267]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.0_Base_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.03.23:598][519]BlueprintLog: New page: Compile 0_Base
+[2023.01.10-20.03.23:618][519]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.03.23:618][519]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.03.23:618][519]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Blueprints\Characters\0_Base.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.03.23:757][519]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2023.01.10-20.03.40:410][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Characters/0_Base" FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2023.01.10-20.03.40:549][845]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/0_BaseD239787B4E6A6F4B1993B58A1E892D9D.tmp' to 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Characters/0_Base.uasset'
+[2023.01.10-20.03.40:571][845]AssetCheck: New page: Asset Save: 0_Base
+[2023.01.10-20.03.40:572][845]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Characters/0_Base.0_Base
+[2023.01.10-20.03.42:437][  4]LogSlate: Window '0_Base' being destroyed
+[2023.01.10-20.03.42:444][  4]LogSlate: Window '0_Base' being destroyed
+[2023.01.10-20.03.42:453][  4]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.03.42:453][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.03.43:484][110]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-20.03.43:538][110]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.01.10-20.04.32:549][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "neg_card_number" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Set neg_card_number
+[2023.01.10-20.04.32:549][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Set slot2_item
+[2023.01.10-20.04.32:549][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Card2_pick_up'.
+Make sure 'Card2_pick_up' has been compiled for  Get slot2_item
+[2023.01.10-20.04.32:550][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:550][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:550][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.04.32:551][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Neg Card Number  could not be found in '/Game/TopDownBP/Interface/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.04.32:551][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Slot 2 Item  could not be found in '/Game/TopDownBP/Interface/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.04.32:551][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Negative_cards\Card2_pick_up.uasset: [Compiler] The property associated with  Slot 2 Item  could not be found in '/Game/TopDownBP/Interface/Negative_cards/Card2_pick_up.Card2_pick_up_C'
+[2023.01.10-20.04.32:561][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "pos_card_number" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Set pos_card_number
+[2023.01.10-20.04.32:562][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Set slot1_item
+[2023.01.10-20.04.32:562][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card1_pick_up'.
+Make sure 'Card1_pick_up' has been compiled for  Get slot1_item
+[2023.01.10-20.04.32:562][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:562][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:562][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.04.32:563][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Pos Card Number  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.04.32:563][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.04.32:563][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card1_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card1_pick_up.Card1_pick_up_C'
+[2023.01.10-20.04.32:573][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "pos_card_number" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Set pos_card_number
+[2023.01.10-20.04.32:574][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Set slot1_item
+[2023.01.10-20.04.32:574][550]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Card3_pick_up'.
+Make sure 'Card3_pick_up' has been compiled for  Get slot1_item
+[2023.01.10-20.04.32:574][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:574][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.04.32:574][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.04.32:575][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Pos Card Number  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.04.32:575][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.04.32:575][550]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Positive_cards\Card3_pick_up.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Positive_cards/Card3_pick_up.Card3_pick_up_C'
+[2023.01.10-20.04.32:666][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2023.01.10-20.04.35:434][550]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.10-20.04.36:477][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Lobby/LobbyCharacter.LobbyCharacter
+[2023.01.10-20.04.37:129][641]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.45:988][245]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.45:989][245]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.45:990][245]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.45:990][245]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:211][784]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Динозавр_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.04.54:212][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:212][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:212][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:212][784]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Динозавр_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.04.54:212][784]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Динозавр_Skeleton, removing AnimBP from actor.
+[2023.01.10-20.04.54:215][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:216][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:216][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:217][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:276][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:277][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:277][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.54:277][784]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:186][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:186][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:186][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:189][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:189][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:189][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:191][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:241][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:242][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:243][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.56:243][885]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:179][  9]BlueprintLog: New page: Compile LobbyCharacter
+[2023.01.10-20.04.58:240][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:240][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:240][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:342][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.01.10-20.04.58:349][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:349][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:349][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:350][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:377][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:378][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:378][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:378][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:411][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:412][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:412][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.58:412][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.LobbyCharacter_C_0.sphere has a component set to zero, which will result in a bad body instance. Scale:X=-0.500 Y=0.000 Z=0.000
+[2023.01.10-20.04.59:032][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Lobby/LobbyCharacter" FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Lobby/LobbyCharacter.uasset" SILENT=true
+[2023.01.10-20.04.59:157][ 52]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/LobbyCharacter5F1CFB784A9294F685D5E381DCA33053.tmp' to 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Lobby/LobbyCharacter.uasset'
+[2023.01.10-20.04.59:180][ 52]AssetCheck: New page: Asset Save: LobbyCharacter
+[2023.01.10-20.04.59:180][ 52]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Lobby/LobbyCharacter.LobbyCharacter
+[2023.01.10-20.05.01:408][267]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-20.05.01:474][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.01.10-20.05.37:812][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Lobby/LobbyGM.LobbyGM
+[2023.01.10-20.06.34:564][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:564][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:565][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:566][255]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:566][255]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:567][255]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:568][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:568][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_1
+[2023.01.10-20.06.34:569][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:569][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:569][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_VariableGet_2
+[2023.01.10-20.06.34:569][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:570][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:570][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_0
+[2023.01.10-20.06.34:570][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:570][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:571][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_VariableGet_4
+[2023.01.10-20.06.34:571][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:572][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:572][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:572][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:572][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_VariableGet_0
+[2023.01.10-20.06.34:573][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:573][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:574][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:574][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:574][255]LoadErrors: Failed to load /Game/TopDownBP/Blueprints/Personazh/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_VariableGet_8
+[2023.01.10-20.06.34:575][255]LogLinker: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: Failed to load '/Game/TopDownBP/Blueprints/Personazh/TopDownCharacter': Can't find file.
+[2023.01.10-20.06.34:578][255]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Widget_UI'.
+Make sure 'Widget_UI' has been compiled for  Get slot2_item
+[2023.01.10-20.06.34:578][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:578][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:578][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.06.34:579][255]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Widget_UI'.
+Make sure 'Widget_UI' has been compiled for  Get slot1_item
+[2023.01.10-20.06.34:579][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:579][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:579][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.06.34:580][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:581][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.06.34:581][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:581][255]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Could not find a variable named "slot1_item" in 'Widget_UI'.
+Make sure 'Widget_UI' has been compiled for  Get slot1_item
+[2023.01.10-20.06.34:582][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:582][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] In use pin  As Top Down Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.01.10-20.06.34:582][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.10-20.06.34:582][255]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] Could not find a variable named "slot2_item" in 'Widget_UI'.
+Make sure 'Widget_UI' has been compiled for  Get slot2_item
+[2023.01.10-20.06.34:583][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] The property associated with  Slot 1 Item  could not be found in '/Game/TopDownBP/Interface/Other/Widget_UI.Widget_UI_C'
+[2023.01.10-20.06.34:583][255]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal Projects\Hungry-Felhounds\Content\TopDownBP\Interface\Other\Widget_UI.uasset: [Compiler] The property associated with  Slot 2 Item  could not be found in '/Game/TopDownBP/Interface/Other/Widget_UI.Widget_UI_C'
+[2023.01.10-20.06.34:645][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2023.01.10-20.06.37:323][255]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.10-20.06.45:301][122]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2023.01.10-20.07.02:066][122]LogSlate: Window 'Replace References?' being destroyed
+[2023.01.10-20.07.02:072][122]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with LobbyCharacter; and then delete them.
+
+Are you sure?
+[2023.01.10-20.07.02:072][122]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.10-20.07.02:087][122]LogSlate: Window 'LobbyCharacter' being destroyed
+[2023.01.10-20.07.02:100][122]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.07.02:100][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.07.02:205][122]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.10-20.07.02:205][122]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.07.02:205][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.07.05:239][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.01.10-20.07.05:483][122]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.01.10-20.07.06:055][122]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2023.01.10-20.07.08:325][122]LogSlate: Window 'Save Content' being destroyed
+[2023.01.10-20.07.08:517][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Characters/0_Base" FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Characters/0_Base.uasset" SILENT=true
+[2023.01.10-20.07.08:518][122]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/0_BaseA7835FAC4B636F791CD04185B88DE152.tmp' to 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Characters/0_Base.uasset'
+[2023.01.10-20.07.08:519][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Lobby/LobbyGM" FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2023.01.10-20.07.08:622][122]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/LobbyGMCE25A8B047BF0111C2330B94C67824B6.tmp' to 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Blueprints/Lobby/LobbyGM.uasset'
+[2023.01.10-20.07.08:638][122]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.10-20.07.08:638][122]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Lobby/LobbyGM.LobbyGM
+[2023.01.10-20.07.08:638][122]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/Characters/0_Base.Default__0_Base_C
+[2023.01.10-20.07.08:638][122]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/Characters/0_Base.0_Base_C
+[2023.01.10-20.07.08:638][122]LogContentValidation: Display: Validating ObjectRedirector /Game/TopDownBP/Blueprints/Characters/0_Base.0_Base
+[2023.01.10-20.07.10:355][309]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-20.07.10:406][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.01.10-20.10.56:709][287]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.10-20.10.56:709][287]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.10-20.11.05:638][945]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/TopDownBP/Blueprints/Models/Гончая/Динозавр_Anim.Динозавр_Anim
+[2023.01.10-20.11.05:679][945]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2023.01.10-20.11.05:695][945]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.01.10-20.11.06:038][945]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.10-20.11.06:253][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.10-20.11.06:268][945]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2023.01.10-20.11.16:238][136]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.01.10-20.11.47:040][499]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/TopDownBP/Blueprints/Models/Робот/Робот_PhysicsAsset.Робот_PhysicsAsset
+[2023.01.10-20.11.47:072][499]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0005 seconds. Added 8 classes and 3 folders.
+[2023.01.10-20.11.47:116][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.01.10-20.11.54:886][913]LogSlate: Window 'Робот_PhysicsAsset' being destroyed
+[2023.01.10-20.11.54:893][913]LogSlate: Window 'Робот_PhysicsAsset' being destroyed
+[2023.01.10-20.11.54:894][913]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.11.54:894][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.12.26:192][190]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-20.12.26:400][190]LogUObjectHash: Compacting FUObjectHashTables data took  11.49ms
+[2023.01.10-20.14.51:628][692]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/TopDownBP/Blueprints/Models/Гончая/Динозавр_Blen1D.Динозавр_Blen1D
+[2023.01.10-20.14.51:647][692]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.10-20.14.52:542][692]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace1D
+[2023.01.10-20.15.05:293][916]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.15.05:293][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.15.05:366][916]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.15.05:366][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.15.06:767][ 72]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.15.06:767][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.15.06:786][ 72]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.15.06:786][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.15.06:887][ 72]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-20.15.06:887][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-20.17.24:771][850]LogTemp: Repeating last play command: Standalone Game
+[2023.01.10-20.17.25:015][850]LogUObjectHash: Compacting FUObjectHashTables data took  13.53ms
+[2023.01.10-20.34.29:215][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainMenu" FILE="D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.10-20.34.29:400][441]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2023.01.10-20.34.29:419][441]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Hungry-Felhounds/Saved/MainMenuA7763C24450DF3E020429FB48CE2A34D.tmp' to 'D:/Projects/Unreal Projects/Hungry-Felhounds/Content/TopDownBP/Maps/MainMenu.umap'
+[2023.01.10-20.34.29:463][441]AssetCheck: New page: Asset Save: MainMenu
+[2023.01.10-20.34.29:463][441]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/MainMenu.MainMenu
